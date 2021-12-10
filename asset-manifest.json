@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.0214283d.chunk.css",
-    "main.js": "/static/js/main.cef6c74a.chunk.js",
+    "main.js": "/static/js/main.f22fe973.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.2f59c038.js",
     "static/css/2.b9b5970c.chunk.css": "/static/css/2.b9b5970c.chunk.css",
-    "static/js/2.2e12acd6.chunk.js": "/static/js/2.2e12acd6.chunk.js",
+    "static/js/2.bf185b1f.chunk.js": "/static/js/2.bf185b1f.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.2e12acd6.chunk.js.LICENSE.txt": "/static/js/2.2e12acd6.chunk.js.LICENSE.txt",
+    "static/js/2.bf185b1f.chunk.js.LICENSE.txt": "/static/js/2.bf185b1f.chunk.js.LICENSE.txt",
     "static/media/10-barista-male-african-american-1.9ca4ed29.svg": "/static/media/10-barista-male-african-american-1.9ca4ed29.svg",
     "static/media/add-circle.2c66092a.svg": "/static/media/add-circle.2c66092a.svg",
     "static/media/add.8cecac8d.svg": "/static/media/add.8cecac8d.svg",
@@ -113,8 +113,8 @@
   "entrypoints": [
     "static/js/runtime-main.2f59c038.js",
     "static/css/2.b9b5970c.chunk.css",
-    "static/js/2.2e12acd6.chunk.js",
+    "static/js/2.bf185b1f.chunk.js",
     "static/css/main.0214283d.chunk.css",
-    "static/js/main.cef6c74a.chunk.js"
+    "static/js/main.f22fe973.chunk.js"
   ]
 }
