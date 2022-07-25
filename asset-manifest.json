@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0214283d.chunk.css",
-    "main.js": "/static/js/main.8b0e2bcf.chunk.js",
+    "main.css": "/static/css/main.99f5ab9b.chunk.css",
+    "main.js": "/static/js/main.74734b3b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.2f59c038.js",
-    "static/css/2.b9b5970c.chunk.css": "/static/css/2.b9b5970c.chunk.css",
-    "static/js/2.c50987ad.chunk.js": "/static/js/2.c50987ad.chunk.js",
+    "static/css/2.ce51cd95.chunk.css": "/static/css/2.ce51cd95.chunk.css",
+    "static/js/2.86bcf250.chunk.js": "/static/js/2.86bcf250.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.c50987ad.chunk.js.LICENSE.txt": "/static/js/2.c50987ad.chunk.js.LICENSE.txt",
-    "static/js/main.8b0e2bcf.chunk.js.LICENSE.txt": "/static/js/main.8b0e2bcf.chunk.js.LICENSE.txt",
+    "static/js/2.86bcf250.chunk.js.LICENSE.txt": "/static/js/2.86bcf250.chunk.js.LICENSE.txt",
+    "static/js/main.74734b3b.chunk.js.LICENSE.txt": "/static/js/main.74734b3b.chunk.js.LICENSE.txt",
     "static/media/10-barista-male-african-american-1.9ca4ed29.svg": "/static/media/10-barista-male-african-american-1.9ca4ed29.svg",
     "static/media/add-circle.2c66092a.svg": "/static/media/add-circle.2c66092a.svg",
     "static/media/add.8cecac8d.svg": "/static/media/add.8cecac8d.svg",
@@ -38,6 +38,7 @@
     "static/media/common-file-text-edit.7151450c.svg": "/static/media/common-file-text-edit.7151450c.svg",
     "static/media/common-file-text-question.acb8eec1.svg": "/static/media/common-file-text-question.acb8eec1.svg",
     "static/media/common-file-text.dcc0b1da.svg": "/static/media/common-file-text.dcc0b1da.svg",
+    "static/media/contract_approved.14266914.svg": "/static/media/contract_approved.14266914.svg",
     "static/media/copy-paste.b7e8badb.svg": "/static/media/copy-paste.b7e8badb.svg",
     "static/media/costing.4a2db155.svg": "/static/media/costing.4a2db155.svg",
     "static/media/cursor-hand-2.6256336e.svg": "/static/media/cursor-hand-2.6256336e.svg",
@@ -63,6 +64,7 @@
     "static/media/loading.69aac575.svg": "/static/media/loading.69aac575.svg",
     "static/media/location-user.1d0022e5.svg": "/static/media/location-user.1d0022e5.svg",
     "static/media/markRead.321a0da7.svg": "/static/media/markRead.321a0da7.svg",
+    "static/media/markReadGray.60a1cdf7.svg": "/static/media/markReadGray.60a1cdf7.svg",
     "static/media/menu-drag.38a42dd0.svg": "/static/media/menu-drag.38a42dd0.svg",
     "static/media/messages-bubble-square-text.b7e59223.svg": "/static/media/messages-bubble-square-text.b7e59223.svg",
     "static/media/messages-bubble-typing.d43e4026.svg": "/static/media/messages-bubble-typing.d43e4026.svg",
@@ -76,6 +78,7 @@
     "static/media/numberList.43f07cd5.svg": "/static/media/numberList.43f07cd5.svg",
     "static/media/pageBreak.af88f57c.svg": "/static/media/pageBreak.af88f57c.svg",
     "static/media/pencil-1.a1654c42.svg": "/static/media/pencil-1.a1654c42.svg",
+    "static/media/pending-approval.86a2c69c.svg": "/static/media/pending-approval.86a2c69c.svg",
     "static/media/photos.9c26691c.svg": "/static/media/photos.9c26691c.svg",
     "static/media/pin-location-1.0f7236a7.svg": "/static/media/pin-location-1.0f7236a7.svg",
     "static/media/pin-map-filled.00705a41.svg": "/static/media/pin-map-filled.00705a41.svg",
@@ -114,9 +117,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2f59c038.js",
-    "static/css/2.b9b5970c.chunk.css",
-    "static/js/2.c50987ad.chunk.js",
-    "static/css/main.0214283d.chunk.css",
-    "static/js/main.8b0e2bcf.chunk.js"
+    "static/css/2.ce51cd95.chunk.css",
+    "static/js/2.86bcf250.chunk.js",
+    "static/css/main.99f5ab9b.chunk.css",
+    "static/js/main.74734b3b.chunk.js"
   ]
 }
